@@ -1,5 +1,7 @@
 # GPU Manager
 
+> For swrights44 learn GPU virtualization and Kubernetes device plugin tool use.
+
 [![Build Status](https://travis-ci.org/tkestack/gpu-manager.svg?branch=master)](https://travis-ci.org/tkestack/gpu-manager)
 
 GPU Manager is used for managing the nvidia GPU devices in Kubernetes cluster. It implements the `DevicePlugin` interface
